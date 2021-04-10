@@ -1,6 +1,6 @@
 #!/bin/bash
 TYPE="retro-terminal"
-THEME="green.css"
+THEME="white.css"
 DOMAIN="justinbayette.github.io"
 ADD_JS="true"
 JS="custom_text_header.js"
