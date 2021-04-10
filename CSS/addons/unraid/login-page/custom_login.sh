@@ -1,7 +1,7 @@
 #!/bin/bash
 TYPE="retro-terminal"
 THEME="green.css"
-DOMAIN="gilbn.github.io"
+DOMAIN="justinbayette.github.io"
 ADD_JS="true"
 JS="custom_text_header.js"
 DISABLE_THEME="false"
